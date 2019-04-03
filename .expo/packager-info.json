@@ -2,8 +2,8 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 15321,
-  "expoServerNgrokUrl": "https://s5-rmp.kiminjoong.tomato-timer.exp.direct",
-  "packagerNgrokUrl": "https://packager.s5-rmp.kiminjoong.tomato-timer.exp.direct",
-  "ngrokPid": 15444
+  "packagerPid": 4216,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }

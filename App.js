@@ -5,7 +5,7 @@ import reducer from "./reducer";
 import { createStore } from "redux";
 import { Provider } from "react-redux";
 
-let store = createStore(reducer.getState());
+let store = createStore(reducer);
 
 
 

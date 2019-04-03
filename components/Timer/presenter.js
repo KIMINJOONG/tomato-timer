@@ -4,6 +4,7 @@ import Button from "../Button";
 
 class Timer extends Component {
     render() {
+        console.log(this.props);
         const { isPlaying, elapsedTime, timerDuration, startTimer, restartTimer} = this.props;
         return (
             <View style={styles.container}>
